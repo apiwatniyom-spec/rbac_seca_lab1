@@ -2,4 +2,5 @@
     echo "Main";
     echo "Product";
     echo "About Us";
+    echo "Contact";
 ?>
